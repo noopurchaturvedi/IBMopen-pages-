@@ -10,5 +10,6 @@ public class Simple {
     System.out.println(c);
 	System.out.println("Hello Tina ji");
 	System.out.println("How are you");
+	System.out.println(a>>b);
 }
 }
